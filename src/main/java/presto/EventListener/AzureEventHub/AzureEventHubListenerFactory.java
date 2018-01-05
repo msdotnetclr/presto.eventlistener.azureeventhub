@@ -1,9 +1,7 @@
-package presto.eventlistener.azureeventhub;
+package presto.EventListener.AzureEventHub;
 import com.facebook.presto.spi.eventlistener.EventListener;
 import com.facebook.presto.spi.eventlistener.EventListenerFactory;
-import com.microsoft.azure.eventhubs.EventHubException;
 
-import java.io.IOException;
 import java.util.Map;
 
 import static java.util.Objects.requireNonNull;

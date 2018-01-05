@@ -1,4 +1,4 @@
-package presto.eventlistener.azureeventhub;
+package presto.EventListener.AzureEventHub;
 import com.facebook.presto.spi.eventlistener.EventListener;
 import com.facebook.presto.spi.eventlistener.QueryCompletedEvent;
 import com.facebook.presto.spi.eventlistener.QueryCreatedEvent;
