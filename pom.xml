@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.facebook.presto</groupId>
             <artifactId>presto-spi</artifactId>
-            <version>0.191</version>
+            <version>0.179</version>
             <scope>provided</scope>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.google.common/google-collect -->

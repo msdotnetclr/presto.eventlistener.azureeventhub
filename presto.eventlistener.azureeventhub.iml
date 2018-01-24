@@ -15,8 +15,8 @@
     <orderEntry type="library" name="Maven: com.microsoft.azure:azure-eventhubs:0.15.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.qpid:proton-j:0.22.0" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.facebook.presto:presto-spi:0.191" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: io.airlift:slice:0.32" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.facebook.presto:presto-spi:0.179" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.airlift:slice:0.29" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: io.airlift:units:1.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.openjdk.jol:jol-core:0.2" level="project" />
